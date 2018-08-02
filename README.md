@@ -2,7 +2,7 @@ mount a volume to the container's `/data` path, e.g.
 
 ~/dnspod <=> /data
 
-Put a configuration file into ~/dnspod
+Put a configuration file into ~/dnspod, named `config.py`, e.g.
 
 ```
 #API Token, How to generate: https://support.dnspod.cn/Kb/showarticle/tsid/227/
